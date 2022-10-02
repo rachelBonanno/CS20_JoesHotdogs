@@ -9,6 +9,7 @@ Your assignment is to create a web page to get an order for a new café called �
 Stand”.  Joe’s only sells three items: hotdogs ($4.25 each), French Fries ($2.60 each) and Drinks 
 ($1.50 each).  Joe is swamped due to his incredible hotdog recipe and is hoping online orders will 
 help to manage the flow better.
+<br><br>
 When the user runs the page (i.e., enters the url) do the following:
 - Using prompt(), ask the user three questions- how many hotdogs do they want, how many 
 fries do they want and how many sodas do they want.  When you get the values, store 
@@ -23,8 +24,11 @@ them in variables or an array.
   - tax
   - final total.  
   - All currency values must be rounded to 2 decimal places.
-Rubric
+## Rubric
 All deliverables provided – 10 points
+<br>
 Page runs to spec – 50 points
+<br>
 Quality of code -  25 points
+<br>
 Creativity/effort – 15 points
